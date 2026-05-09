@@ -1,0 +1,284 @@
+<body>
+ <div class="header">
+  <div class="header-div">
+   <a class="logo" href="/">
+    开开英语翻译
+   </a>
+   <ul class="header-ul">
+    <a href="/mrfy/">
+     每日翻译
+    </a>
+    <a href="/yybd/">
+     英语表达
+    </a>
+    <a href="/kouyu/">
+     英语口语
+    </a>
+    <a href="/transl-en">
+     英汉互译
+    </a>
+    <a href="/ci/">
+     英语单词
+    </a>
+    <a href="/root/">
+     英语词根
+    </a>
+    <a href="/wen/">
+     学习经验
+    </a>
+    <a href="https://www.redian66.com" target="_blank">
+     英语自学网
+    </a>
+   </ul>
+  </div>
+ </div>
+ <div class="mybody">
+  <div class="top-form">
+   <form action="/ci/" id="form" method="get" onsubmit="return false;">
+    <div class="search-input">
+     <input id="search_word_input" name="word" placeholder="请输入英文单词、短语或者汉语词语" type="text"/>
+    </div>
+    <div class="search-btn">
+     <button id="search_word" name="gdosubmit" type="submit">
+      查 词
+     </button>
+    </div>
+   </form>
+  </div>
+  <!-- 查词 顶部搜索框 下方推荐。end-->
+  <!-- 
+  <div class="top-tuijian"><p>专题和工具： </p><a href="/list/">英语单词表</a>|<a href="/list2/">英语短语表</a>|<a href="/zt/dysc/">实用场景</a>|<a href="/ju/">日常用语</a>|
+    <a href="/hanyu/">汉语成语表</a>|<a href="/hanzi/">汉字表</a></div>
+  -->
+ </div>
+ <div class="mybody">
+  <div class="mybody-left">
+   <div class="yybd-body">
+    <div class="yybd-title">
+     <h2 class="h2-title">
+      go back on one's word 食言，反悔，违背诺言
+     </h2>
+     <!-- 发布时间：1970-01-01 ,原来是'addtime''-->
+     <p class="p-title">
+      所属栏目：
+      <a href="/mrfy/" target="_blank">
+       每日翻译
+      </a>
+      <span>
+       发布时间：2026-05-08        浏览：126
+      </span>
+     </p>
+    </div>
+    <div class="show-audio">
+     <audio controls="controls">
+      <source src="https://online2.kkabc.com/data/upload/neirong/20260501/69f49073a36ca.mp3" type="audio/mp3"/>
+     </audio>
+    </div>
+    <div class="show-img">
+     <img src="https://online2.kkabc.com/data/upload/neirong/20260501/small-69f4906acca66.jpg"/>
+    </div>
+    <div class="show-text">
+     <p style="white-space: pre-line">
+      go back on one's word
+
+汉语意思：
+
+食言，违背诺言
+反悔，不守信用
+说话不算数
+
+例句：
+
+A true gentleman never goes back on his word.
+真正的绅士从不食言。
+
+The contractor went back on his word and demanded more money.
+承包商违背了诺言，要求更多钱。
+     </p>
+    </div>
+    <div class="show-sxp">
+     <p>
+      上一篇：
+      <a href="/mrfy/show-2940.html">
+       by word of mouth 口头传达，口口相传
+      </a>
+     </p>
+    </div>
+   </div>
+  </div>
+  <div class="mybody-right">
+   <!-- js内容写入单独的模板文件3 -->
+   <div class="ci-base-div pb0 bgnone">
+    <a href="https://s.click.taobao.com/1F3wGop" rel="nofollow" target="_blank">
+     <img src="https://fanyi.kkabc.com/fystyle/images/tb-11-360.jpg"/>
+    </a>
+   </div>
+   <div class="base-div">
+    <div class="base-div-title right-div-title">
+     <h4 class="h4-title">
+      每日翻译 相关推荐
+     </h4>
+    </div>
+    <ul class="base-ul">
+     <a href="/mrfy/show-325.html">
+      “from A to Z ”不是“从A到Z”
+     </a>
+     <a href="/mrfy/show-1844.html">
+      “the lion's share”不是“那份狮子”
+     </a>
+     <a href="/mrfy/show-1160.html">
+      “forget-me-not”不是“不要忘记我”
+     </a>
+     <a href="/mrfy/show-1239.html">
+      “green back”不是“绿色背衬布”
+     </a>
+     <a href="/mrfy/show-711.html">
+      “snake in the grass”不是“草丛里的蛇”
+     </a>
+     <a href="/mrfy/show-2651.html">
+      “the pond”不是“池塘”
+     </a>
+     <a href="/mrfy/show-2431.html">
+      “no thanks to”不是“不感谢”
+     </a>
+     <a href="/mrfy/show-328.html">
+      “from the egg to the apple ”不是“从鸡蛋到苹果”
+     </a>
+     <a href="/mrfy/show-2541.html">
+      “make a song and dance”不是“做一首歌和跳舞”
+     </a>
+     <a href="/mrfy/show-557.html">
+      “motor mouth”不是“发动机嘴”
+     </a>
+    </ul>
+   </div>
+   <div class="ci-base-div">
+    <div class="ci-div-title">
+     <div class="ci-h4-title">
+      热门英文查询
+     </div>
+    </div>
+    <div class="ci-text" id="char">
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/learn" target="_blank">
+      learn是什么意思
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/msi" target="_blank">
+      msi是什么意思
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/necessary" target="_blank">
+      necessary是什么意思
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/editor" target="_blank">
+      editor是什么意思
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/thick" target="_blank">
+      thick是什么意思
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/bq" target="_blank">
+      bq是什么意思
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/male" target="_blank">
+      male是什么意思
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/fifa" target="_blank">
+      fifa是什么意思
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/elf" target="_blank">
+      elf是什么意思
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/sweater" target="_blank">
+      sweater是什么意思
+     </a>
+    </div>
+   </div>
+   <div class="ci-base-div">
+    <div class="ci-div-title">
+     <div class="ci-h4-title">
+      热门中文查询
+     </div>
+    </div>
+    <div class="ci-text" id="char">
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/狗屎">
+      狗屎用英语怎么说
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/教师节">
+      教师节英语怎么说
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/圣诞老人">
+      圣诞老人英语怎么说
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/医院">
+      医院用英语怎么说
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/厨房">
+      厨房英语怎么说
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/火锅">
+      火锅用英语怎么说
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/亲爱的">
+      亲爱的英语怎么说
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/星期二">
+      星期二英语怎么说
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/学院">
+      学院用英语怎么说
+     </a>
+     <a class="ci-char" href="https://fanyi.kkabc.com/ci/姿势">
+      姿势英语怎么说
+     </a>
+    </div>
+   </div>
+  </div>
+ </div>
+ <script src="/fystyle/js/hy.js" type="text/javascript">
+ </script>
+ <script type="text/javascript">
+  var SHOW_HUACI=true;
+      dictInit();
+ </script>
+ <div class="footer">
+  <div class="footer-div">
+   <p>
+    Copyright ©
+    <a href="https://fanyi.kkabc.com/">
+     开开英语翻译
+    </a>
+   </p>
+   <a href="/list/">
+    英语单词表
+   </a>
+   |
+   <a href="/list2/">
+    英语短语表
+   </a>
+   |
+   <a href="/zt/dysc/">
+    实用场景
+   </a>
+   |
+   <a href="/ju/">
+    日常用语
+   </a>
+   |
+   <a href="/hanyu/">
+    汉语成语表
+   </a>
+   |
+   <a href="/hanzi/">
+    汉字表
+   </a>
+  </div>
+ </div>
+ <!--
+<div style="display: none"><script>
+      var _hmt = _hmt || [];
+      (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?44c56a70960cf36e1cad0d3106f99116";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+      })();
+  </script></div>-->
+</body>
